@@ -4,3 +4,4 @@
 
 **允许转载，禁止二配**
 
+**更新/下载https://github.com/hatsumo01/pddtex-zh/releases**
