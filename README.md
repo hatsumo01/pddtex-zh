@@ -5,3 +5,5 @@
 **允许转载，禁止二配**
 
 **更新/下载https://github.com/hatsumo01/pddtex-zh/releases**
+
+## 录制视频请标明补丁作者：废宅はつも
